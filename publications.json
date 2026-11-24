@@ -1,0 +1,210 @@
+[
+  [
+    "A mixed reality-assisted human-to-robot skill transfer approach for contact-rich assembly via visuomotor primitives",
+    "Duidi Wu, Q Zhao, Y Shen, J Li, P Zheng, J Qi, J Hu",
+    "Robotics and Computer-Integrated Manufacturing 99, 103208 · 2026",
+    "A mixed reality",
+    "https://doi.org/10.1016/j.rcim.2025.103208",
+    "https://h2r-mrsta.github.io/"
+  ],
+  [
+    "Empowering natural human–robot collaboration through multimodal language models and spatial intelligence: Pathways and perspectives",
+    "Duidi Wu, P Zheng, Q Zhao, S Zhang, J Qi, J Hu, GN Zhu, L Wang",
+    "Robotics and Computer-Integrated Manufacturing 97, 103064 · 2026",
+    "Empowering",
+    "",
+    "https://github.com/WuDuidi/MLLM-HRC-Survey"
+  ],
+  [
+    "AssemBrain: Towards embodied intelligence paradigms for human-robot collaboration in manufacturing",
+    "Duidi Wu, Q Zhao, S Zhang, J Qi, J Ma, GN Zhu, J Hu",
+    "Computers & Industrial Engineering, 112070 · 2026",
+    "AssemBrain",
+    "",
+    "https://assembrain.github.io/"
+  ],
+  [
+    "H2R Bridge: Transferring vision-language models to few-shot intention meta-perception in human robot collaboration",
+    "Duidi Wu, Q Zhao, J Fan, J Qi, P Zheng, J Hu",
+    "Journal of Manufacturing Systems 80, 524–535 · 2025",
+    "H2R Bridge",
+    "https://doi.org/10.1016/j.jmsy.2025.03.016",
+    ""
+  ],
+  [
+    "Computer vision-based intelligent elevator information system for efficient demand-based operation and optimization",
+    "Duidi Wu, S Wu, Q Zhao, S Zhang, J Qi, J Hu, B Lin",
+    "Journal of Building Engineering 81, 108126 · 2024",
+    "Computer vision",
+    "",
+    ""
+  ],
+  [
+    "Overview of deep learning based pedestrian attribute recognition and re-identification",
+    "Duidi Wu, H Huang, Q Zhao, S Zhang, J Qi, J Hu",
+    "Heliyon 8(12) · 2022",
+    "Overview of deep",
+    "",
+    ""
+  ],
+  [
+    "HAIL: Human-in-the-loop Assembly Imitation Learning System",
+    "Q Zhao, Duidi Wu, Y Shen, J Li, Q Yu, S Zhang, J Qi, J Hu",
+    "Journal of Manufacturing Systems 86, 991–1006 · 2026",
+    "HAIL Human",
+    "",
+    "https://hailzqy.github.io/HAIL.github.io/"
+  ],
+  [
+    "Hybrid Consistency Policy: Decoupling Multi-Modal Diversity and Real-Time Efficiency in Robotic Manipulation",
+    "Q Zhao, Y Shen, X Zhai, Duidi Wu, J Qi, C Hao, J Hu, Q Yu",
+    "IEEE Robotics and Automation Letters · 2026",
+    "Hybrid Consistency",
+    "",
+    ""
+  ],
+  [
+    "A vision-language conditioned physics-aware imitation learning approach for bimanual robotic dexterous assembly",
+    "T Wang, B Gao, H Ma, G Zhang, Duidi Wu, P Zheng",
+    "CIRP Annals · 2026",
+    "A vision-language conditioned physics-aware.png",
+    "",
+    ""
+  ],
+  [
+    "E-GCDT: advanced reinforcement learning with GAN-enhanced data for continuous excavation system",
+    "Q Zhao, L Gao, Duidi Wu, Y Lei, L Wang, J Qi, J Hu",
+    "Applied Intelligence 55(6), 413 · 2025",
+    "E-GCDT",
+    "",
+    "https://zqy-an.github.io/ExcavatorRL.github.io/"
+  ],
+  [
+    "Cross-Domain Gesture Recognition via Wrist-Worn Sensing for Resource-Efficient IoT Applications",
+    "S Zhang, Y Ding, J Qi, C Hong, W Liu, Duidi Wu, Q Zhao, J Hu",
+    "IEEE Internet of Things Journal · 2025",
+    "Cross-Domain Gesture",
+    "",
+    ""
+  ],
+  [
+    "Fall-related gait pattern recognition based on surface electromyography using a hybrid neural network with transfer learning",
+    "S Zhang, J Qi, S Hao, Duidi Wu, Q Zhao, B Chen, J Hu",
+    "Biomedical Signal Processing and Control 98, 106771 · 2024",
+    "Fall-related gait pattern",
+    "",
+    ""
+  ],
+  [
+    "Generalized cross-domain framework for gesture recognition via wrist-worn sensing",
+    "S Zhang, J Qi, Duidi Wu, Q Zhao, J Hu",
+    "IEEE Journal of Biomedical and Health Informatics 29(2), 996–1008 · 2024",
+    "Generalized cross-domain",
+    "",
+    ""
+  ],
+  [
+    "E-gtn: Advanced terrain sensing framework for enhancing intelligent decision making of excavators",
+    "Q Zhao, L Gao, Duidi Wu, X Meng, J Qi, J Hu",
+    "Applied Sciences 14(16), 6974 · 2024",
+    "E-GTN",
+    "",
+    ""
+  ],
+  [
+    "Real-time speed monitoring of elevator system based on low-cost IMU",
+    "S Zhang, C Hong, H Huang, Duidi Wu, Q Zhao, J Qi, J Hu, Y Peng",
+    "IEEE Sensors Journal 23(15), 17559–17571 · 2023",
+    "Real-Time Speed",
+    "",
+    ""
+  ],
+  [
+    "Coordination optimization control of DC component and harmonics for grid-connected PV inverters",
+    "B Long, C Zhao, Duidi Wu, WT Fang, Y Lu, KT Chong",
+    "ISA Transactions 99, 432–444 · 2020",
+    "Coordination optimization",
+    "",
+    ""
+  ],
+  [
+    "Generative AI-Driven Pathways for Robot Skill Learning and Human-Guided Transfer for Smart Assembly",
+    "Duidi Wu, P Zheng, Q Zhao, J Qi, J Hu",
+    "Procedia CIRP 147, 85–90 · Best Student Paper Award, CIRP CATS · 2026",
+    "Generative AI",
+    "https://doi.org/10.1016/j.procir.2026.02.122",
+    ""
+  ],
+  [
+    "Improving Intent Recognition with Multimodal Supervision for Human-Robot Interaction",
+    "Duidi Wu, J Qi, Q Zhao, S Zhang, J Hu",
+    "International Conference on Automation in Manufacturing, Transportation and Logistics · 2024",
+    "Improving Intent",
+    "https://doi.org/10.1109/ICaMaL62577.2024.10919851",
+    ""
+  ],
+  [
+    "RBF-NN based upper-bound adaptive learning sliding mode control for grid-connected converter",
+    "Duidi Wu, B Long, Y Cheng",
+    "IEEE International Conference on Mechatronics and Automation (ICMA) · 2020",
+    "RBF-NN",
+    "",
+    ""
+  ],
+  [
+    "Data augmentation for continuous excavation trajectories based on DGAN",
+    "Q Zhao, Duidi Wu, S Zhang, J Qi, J Hu, GN Zhu",
+    "IEEE International Conference on Mechatronics and Automation (ICMA) · 2024",
+    "Data Augmentation",
+    "https://doi.org/10.1109/ICMA61710.2024.10633010",
+    ""
+  ],
+  [
+    "DC component minimization of transformerless LCL-type grid-connected inverter with virtual capacitors",
+    "W Fang, Duidi Wu, LJ Huang, B Long, Y Chen",
+    "Chinese Control Conference (CCC), 6520–6524 · 2019",
+    "DC Component",
+    "",
+    ""
+  ],
+  [
+    "PAAM: Phase-Aware Action Modulation for Force-Guided Policy Augmentation in Contact-Rich Manipulation",
+    "Y Shen, Q Zhao, J Li, Duidi Wu, J Hu, J Qi, C Hong, J Ma, R Du",
+    "IEEE International Conference on Mechatronics and Automation (ICMA) · 2026",
+    "PAAM ",
+    "",
+    ""
+  ],
+  [
+    "Lightweight Gated Residual Late Fusion for Frozen Vision Priors in Vision-Only Diffusion Policies",
+    "J Li, Q Zhao, Duidi Wu, Y Shen, X Xu, H Xiong, S Shi, J Li, J Qi, J Hu",
+    "IEEE International Conference on Mechatronics and Automation (ICMA) · 2026",
+    "Lightweight Gated",
+    "",
+    ""
+  ],
+  [
+    "Fall-Related Gait Recognition Using Surface Electromyography with Transfer Learning",
+    "S Zhang, B Chen, Duidi Wu, Q Zhao, C Hong, J Qi, J Hu",
+    "China Automation Congress (CAC), 290–295 · 2024",
+    "Fall-Related Gait Recognition Using Surface.gif",
+    "https://doi.org/10.1109/CAC63892.2024.10865421",
+    ""
+  ],
+  [
+    "Deep learning-based abnormal elevator action detection system",
+    "Q Zhao, Y Chen, Duidi Wu, Q Fan, H Huang, S Zhang, J Oi, J Hu",
+    "China Automation Congress (CAC), 1629–1634 · 2023",
+    "Deep learning-based",
+    "https://doi.org/10.1109/CAC59555.2023.10451419",
+    ""
+  ],
+  [
+    "Towards Physical Intelligence in Contact-Rich Manufacturing: A Visual–Force–Pose Demonstration and Phase-Aware Learning Framework",
+    "Y Wang, R Zhang, MY Li, H Shi, J Wang, H Huang, Duidi Wu, H Fang, et al.",
+    "SSRN 7525395 · Preprint",
+    "Towards Physical",
+    "",
+    ""
+  ]
+]
